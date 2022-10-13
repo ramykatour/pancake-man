@@ -11,6 +11,14 @@
   "keywords": ["pancake", "default"],
   "tokens": [
     {
+      "name": "GameDevo",
+      "symbol": "GVO",
+      "address": "0x5213F1277C55ED42d0C62B8f48823659b0c8AD1d",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://gamedevo.live/img/SVG/GVOlogo.png"
+    },
+    {
       "name": "WBNB Token",
       "symbol": "WBNB",
       "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
