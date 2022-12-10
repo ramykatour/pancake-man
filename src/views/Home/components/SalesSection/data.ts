@@ -55,7 +55,7 @@ export const cakeSectionData: SalesSectionProps = {
   reverse: false,
   primaryButton: {
     to: '/swap?outputCurrency=0xaaa9b64369753cdc1cea47bedce837b089062931',
-    text: 'Buy CAKE',
+    text: 'Buy MXMT',
     external: false,
   },
   secondaryButton: {
