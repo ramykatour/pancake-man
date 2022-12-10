@@ -104,10 +104,10 @@ const Hero = () => {
       >
         <Flex flex="1" flexDirection="column">
           <Heading scale="xxl" color="secondary" mb="24px">
-            {t('Mx Million Token (MXMT)')}
+            {t('Making Life Good with Pancakeswap')}
           </Heading>
           <Heading scale="md" mb="24px">
-            {t('Smart People, Smart Investment')}
+            {t('Trade, earn, and win crypto on the most popular decentralized platform in the galaxy.')}
           </Heading>
           <Flex>
             {!account && <ConnectWalletButton mr="8px" />}
