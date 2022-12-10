@@ -11,14 +11,6 @@
   "keywords": ["Mx Million", "default"],
   "tokens": [
     {
-      "name": "Mx Million",
-      "symbol": "MXMT",
-      "address": "0xAaa9b64369753cdC1cEA47BEDcE837b089062931",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://presale.mxmillioncoin.com/static/media/logo.5ae2abd6.png"
-    },
-    {
       "name": "WBNB Token",
       "symbol": "WBNB",
       "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
@@ -59,12 +51,12 @@
       "logoURI": "https://pancakeswap.finance/images/tokens/0x55d398326f99059ff775485246999027b3197955.png"
     },
     {
-      "name": "PancakeSwap Token",
-      "symbol": "CAKE",
-      "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
+      "name": "Mx Million",
+      "symbol": "MXMT",
+      "address": "0xAaa9b64369753cdC1cEA47BEDcE837b089062931",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://pancakeswap.finance/images/tokens/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82.png"
+      "logoURI": "https://presale.mxmillioncoin.com/static/media/logo.5ae2abd6.png"
     },
     {
       "name": "Venus",
